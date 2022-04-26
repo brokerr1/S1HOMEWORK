@@ -1,4 +1,8 @@
-﻿Console.Write("Введите первое число: ");
+﻿/*
+Напишите программу, которая принимает на
+вход три числа и выдаёт максимальное из этих чисел.
+*/
+Console.Write("Введите первое число: ");
 int numberA = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите второе число: ");
 int numberB = Convert.ToInt32(Console.ReadLine());
@@ -15,5 +19,3 @@ if (numberС > numberMax)
 }
 Console.Write("Максимальное число: ");
 Console.WriteLine(numberMax);
-
-
