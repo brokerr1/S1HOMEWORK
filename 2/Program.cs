@@ -19,3 +19,4 @@ if (numberС > numberMax)
 }
 Console.Write("Максимальное число: ");
 Console.WriteLine(numberMax);
+Console.ReadKey();

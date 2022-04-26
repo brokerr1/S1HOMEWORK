@@ -13,3 +13,4 @@ else
 {
     Console.WriteLine("Нечетное");
 }
+Console.ReadKey();
